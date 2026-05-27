@@ -1,0 +1,7 @@
+{
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/Users/sangkyu/Job/임상규_이력서.pdf\",\"pages\":\"1-10\"}",
+  "error": "pdftoppm is not installed. Install poppler-utils (e.g. `brew install poppler` or `apt-get install poppler-utils`) to enable PDF page rendering.",
+  "timestamp": "2026-05-27T12:18:51.088Z",
+  "retry_count": 1
+}
