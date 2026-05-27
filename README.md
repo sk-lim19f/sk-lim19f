@@ -22,7 +22,7 @@ location: Seoul, KR
 
 ```
 2026.06 ─ now        Cloud Security Engineer  @ Travel Wallet
-2024.05 ─ 2026.05    DevOps Engineer          @ Ratel & Partners  (1인 DevOps 조직)
+2024.05 ─ 2026.05    DevOps Engineer          @ 라텔앤드파트너즈  (1인 DevOps 조직)
 ```
 
 #### `Talks`
@@ -59,7 +59,7 @@ location: Seoul, KR
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 **Security**
