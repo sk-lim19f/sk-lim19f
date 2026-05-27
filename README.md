@@ -4,7 +4,7 @@
 
 **Cloud Security Engineer** · _Travel Wallet_ &nbsp;|&nbsp; 2026.06 ~
 
-Previously DevOps Engineer @ 라텔앤드파트너즈 _(2024.05 – 2026.05)_
+DevOps Engineer @ 라텔앤드파트너즈 _(2024.05 – 2026.05)_
 
 </div>
 
